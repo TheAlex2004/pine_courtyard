@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoExtraLight200.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraLight200.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraLight200.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraLight200.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoLight300.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoLight300.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoLight300.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoLight300.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoRegular400.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoRegular400.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoRegular400.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoRegular400.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoMedium500.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoMedium500.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoMedium500.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoMedium500.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoSemiBold600.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoSemiBold600.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoSemiBold600.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoSemiBold600.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoBold700.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoBold700.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoBold700.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoBold700.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoExtraBold800.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraBold800.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraBold800.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoExtraBold800.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('pine_courtyard/fonts/nunito/NunitoBlack900.woff2') format('woff2'),
+        url('pine_courtyard/fonts/nunito/NunitoBlack900.woff') format('woff'),
+        url('pine_courtyard/fonts/nunito/NunitoBlack900.otf') format('otf'),
+        url('pine_courtyard/fonts/nunito/NunitoBlack900.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'AqumTwoClassic';
+    src: url('pine_courtyard/fonts/aqum/AqumTwoClassic.woff2') format('woff2'),
+        url('pine_courtyard/fonts/aqum/AqumTwoClassic.woff') format('woff'),
+        url('pine_courtyard/fonts/aqum/AqumTwoClassic.otf') format('otf'),
+        url('pine_courtyard/fonts/aqum/AqumTwoClassic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AqumTwoSmallCaps';
+    src: url('pine_courtyard/fonts/aqum/AqumTwoSmallCaps.woff2') format('woff2'),
+        url('pine_courtyard/fonts/aqum/AqumTwoSmallCaps.woff') format('woff'),
+        url('pine_courtyard/fonts/aqum/AqumTwoSmallCaps.otf') format('otf'),
+        url('pine_courtyard/fonts/aqum/AqumTwoSmallCaps.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
